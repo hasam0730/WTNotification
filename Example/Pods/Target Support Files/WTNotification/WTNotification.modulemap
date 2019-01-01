@@ -1,0 +1,6 @@
+framework module WTNotification {
+  umbrella header "WTNotification-umbrella.h"
+
+  export *
+  module * { export * }
+}
